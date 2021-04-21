@@ -1,5 +1,5 @@
    def afd2gr(automato):
-        V = set()
+    V = set()
     T = set()
     P = set()
     G = (V, T, P, S)
